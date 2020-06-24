@@ -78,7 +78,7 @@ Widget Showcontacts(){
         title: Container(
           child: Row(
             children: <Widget>[
-              Text('Naraendra Modi', style: TextStyle(
+              Text('Narendra Modi', style: TextStyle(
                   fontWeight: FontWeight.bold
               ),
               ),
