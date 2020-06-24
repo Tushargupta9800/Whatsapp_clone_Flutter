@@ -74,8 +74,8 @@ Widget makecall(String name, String pic, bool inorout, bool mode, String time){
 Widget calllist(){
   var listview = ListView(
     children: <Widget>[
-      makecall('Narendramodi', 'assests/narendramodi.jpg', true, true, '  Yesterday, 5:22 pm'),
-      makecall('Narendramodi', 'assests/narendramodi.jpg', false, true, '  (4) Yesterday, 3:46 pm'),
+      makecall('Narendra modi', 'assests/narendramodi.jpg', true, true, '  Yesterday, 5:22 pm'),
+      makecall('Narendra modi', 'assests/narendramodi.jpg', false, true, '  (4) Yesterday, 3:46 pm'),
       makecall('Utkarsh', 'assests/myfriend.jpg', true, false, '  (6) 20 June, 10:02 pm'),
       makecall('Donuld Trump', 'assests/donaldtrump.jpg', true, false, '  25 May, 9:04 pm'),
       makecall('Soham', 'assests/pic1.jpg', false, true, '  (2) 19 May, 8:00 pm'),
